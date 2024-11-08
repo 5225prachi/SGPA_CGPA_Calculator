@@ -19,5 +19,7 @@ The SGPA & CGPA Calculator is a Python-based application designed to help studen
 
 ### 📸 Screenshots
 
-- ![SGPA Result](https://github.com/yourusername/sgpa-cgpa-calculator/blob/main/screenshots/sgpa-result.png)
+![SGPA Code](https://github.com/5225prachi/SGPA_CGPA_Calculator/blob/main/code.png)
+
+![SGPA Result](https://github.com/5225prachi/SGPA_CGPA_Calculator/blob/main/output.png)
 
